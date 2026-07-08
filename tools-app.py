@@ -4,8 +4,6 @@ import glob
 
 # Import namespaces
 
-
-
 def main(): 
     # Clear the console
     os.system('cls' if os.name == 'nt' else 'clear')
@@ -17,7 +15,6 @@ def main():
         model_deployment = os.getenv("MODEL_DEPLOYMENT")
 
         # Initialize the OpenAI client
-
 
 
         # Create vector store and upload files

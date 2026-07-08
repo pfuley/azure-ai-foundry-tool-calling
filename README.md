@@ -35,6 +35,29 @@ tools-app/
 ## Project Status
 
 🚧 This project is being developed incrementally with meaningful Git commits to demonstrate the complete development process.
+🚧 Project initialization and configuration completed.
+
+Current progress:
+- ✅ Project structure
+- ✅ Environment configuration
+- ⏳ Azure authentication
+- ⏳ OpenAI client
+- ⏳ Tool calling
+- ⏳ File Search
+- ⏳ Web Search
+
+## Setup
+
+1. Clone the repository.
+2. Create a Python virtual environment.
+3. Install the project dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Create a `.env` file using `.env.example`.
+5. Add your Azure AI Foundry endpoint and model deployment name.
 
 ## Learning Objectives
 
