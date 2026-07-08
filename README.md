@@ -40,8 +40,8 @@ tools-app/
 Current progress:
 - ✅ Project structure
 - ✅ Environment configuration
-- ⏳ Azure authentication
-- ⏳ OpenAI client
+- ✅ Azure authentication
+- ✅ OpenAI client
 - ⏳ Tool calling
 - ⏳ File Search
 - ⏳ Web Search
