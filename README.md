@@ -25,9 +25,10 @@ Current progress:
 - ✅ Azure OpenAI client setup
 - ✅ Vector store creation
 - ✅ Brochure PDF upload
-- ⏳ Basic chat loop
-- ⏳ Web Search tool
-- ⏳ File Search tool
+- ✅ Multi-turn conversation support
+- ✅ Tool calling with the Responses API
+- ✅ File Search tool
+- ✅ Web Search tool
 
 ## Tech Stack
 
@@ -132,14 +133,10 @@ Later, the `file_search` tool will use this vector store to answer questions abo
 
 ## Learning Objectives
 
-- Build applications using Azure AI Foundry
-- Configure Azure OpenAI access from Python
-- Authenticate using Microsoft Entra ID
-- Create vector stores
-- Upload files for retrieval
-- Use the Azure OpenAI Responses API
-- Add tool calling capabilities
-- Ground AI responses using search tools
+- Implement tool calling with the Azure OpenAI Responses API
+- Build a multi-turn conversational AI application
+- Ground AI responses using web search and vector-based file retrieval
+- Understand how AI agents orchestrate external tools to answer user queries
 
 ## Acknowledgements
 
